@@ -14,7 +14,7 @@ classifiers = [
  
 setup(
     name='csiparser',
-    version='0.0.1',
+    version='0.1.0',
     description='A Python Package to Parse ESP32 Wi-Fi CSI Data',
     py_modules=["csiparser"],
     package_dir={'': 'src'},
