@@ -34,7 +34,11 @@ example_amplitude = example_csi.amplitude
 # Retrieve example phase 
 example_phase = example_csi.phase
 ```
-_See [Examples](./examples) directory for more examples._
+Further the amplitude and phase information can be plotted to visualize the distortion in amplitude and phase shift as follows:
+
+![Example Amplitude and Phase Graph](./examples/example_amplitude_and_phase_graph.png)
+
+_See [Examples](./examples) directory for full example._
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
