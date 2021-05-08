@@ -1,6 +1,8 @@
 # ESP32 Wi-Fi CSI Python Parser
 
-This is a Python parser for ESP32 Wi-Fi Channel State Information (CSI). This project uses [ESP CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/) created by Hernandez and Bulut.
+This is a Python parser for ESP32 Wi-Fi Channel State Information (CSI). This module allows you to parse and filter CSI data based on the ESP32 CSI specification.
+
+This project uses [ESP CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/) created by Hernandez and Bulut.
 
 ## Installation
 
