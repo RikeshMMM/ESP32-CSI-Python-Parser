@@ -1,5 +1,7 @@
 # ESP32 Wi-Fi CSI Python Parser
 
+![Example Amplitude and Phase Graph](./examples/ESP32-Walking-Activity.png)
+
 This is a Python parser for ESP32 Wi-Fi Channel State Information (CSI) based on the ESP32 CSI specification.
 
 This project uses [ESP CSI Toolkit](https://stevenmhernandez.github.io/ESP32-CSI-Tool/) created by Hernandez and Bulut.
