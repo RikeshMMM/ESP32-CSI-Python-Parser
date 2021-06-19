@@ -1,6 +1,6 @@
 # ESP32 Wi-Fi CSI Python Parser
 
-![Example Amplitude and Phase Graph](./examples/ESP32-Walking-Activity.png)
+<img src="https://raw.githubusercontent.com/RikeshMMM/ESP32-CSI-Python-Parser/main/examples/ESP32-Walking-Activity.png" width="500px">
 
 This is a Python parser for ESP32 Wi-Fi Channel State Information (CSI) based on the ESP32 CSI specification.
 
@@ -38,7 +38,7 @@ example_phase = example_csi.phase
 ```
 Further the amplitude and phase information can be plotted to visualize the distortion in amplitude and phase shift as follows:
 
-![Example Amplitude and Phase Graph](./examples/example_amplitude_and_phase_graph.png)
+![Example Amplitude and Phase Graph](https://raw.githubusercontent.com/RikeshMMM/ESP32-CSI-Python-Parser/main/examples/example_amplitude_and_phase_graph.png)
 
 _See [Examples](./examples) directory for full example._
 
