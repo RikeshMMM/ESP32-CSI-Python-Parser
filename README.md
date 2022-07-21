@@ -44,7 +44,7 @@ _See [Examples](./examples) directory for full example._
 
 ## Citation
 
-[Cite this Tool with BibTeX]()
+[Cite this Tool with BibTeX](https://raw.githubusercontent.com/RikeshMMM/ESP32-CSI-Python-Parser/main/docs/bibtex/Touchless-Biometric-User-Authentication-Using-ESP32-WiFi-Module-Citation.bib)
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
