@@ -42,5 +42,9 @@ Further the amplitude and phase information can be plotted to visualize the dist
 
 _See [Examples](./examples) directory for full example._
 
+## Citation
+
+[Cite this Tool with BibTeX]()
+
 ## License
 Distributed under the MIT License. See LICENSE for more information.
